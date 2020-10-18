@@ -6,3 +6,4 @@ print("hello" + " world")
 greeting = "Hello"
 name = input("Please enter your name ")
 print(greeting + " " + name)
+# Setting up git on the MAC
