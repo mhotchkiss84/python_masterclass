@@ -17,4 +17,5 @@ lines"""
 
 print(anotherSplitString)
 
-
+print("C:\\Users\\Mike\\notes.txt")
+print(r"C:\Users\Mike\notes.txt")
